@@ -1,0 +1,46 @@
+html {
+  line-height: 1.15;
+  -webkit-text-size-adjust: 100%;
+  box-sizing: border-box;
+}
+*,
+*:after,
+*:before {
+  box-sizing: inherit;
+}
+body {
+  margin: 0;
+  color: rgba(0, 0, 0, 0.8);
+  background-color: #fcfcfd;
+  font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Helvetica Neue",
+    sans-serif;
+  line-height: 1.25;
+}
+main {
+  display: block;
+  padding: 1rem 1rem 2rem;
+  max-width: 48rem;
+  margin: 0 auto;
+}
+h1 {
+  font-weight: 400;
+  font-size: 2rem;
+  margin: 0.5rem 0;
+}
+header {
+  text-align: center;
+}
+code {
+  font-family: source-code-pro, Menlo, Consolas, "Courier New", monospace;
+  color: #005c43;
+}
+.small,
+code {
+  font-size: 0.875rem;
+}
+#logo {
+  display: block;
+  width: 100%;
+  max-width: 32rem;
+  margin: 1rem auto;
+}

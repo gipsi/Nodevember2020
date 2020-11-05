@@ -1,0 +1,24 @@
+{
+  "name": "codevember-2020",
+  "version": "1.0.0",
+  "description": "This is the template for the Codevember 2020 challenge!",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve",
+    "build": "echo This is a static template, there is no bundler or bundling involved!"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidhartsough/codevember2020.git"
+  },
+  "keywords": [],
+  "author": "David Hartsough",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidhartsough/codevember2020/issues"
+  },
+  "homepage": "https://github.com/davidhartsough/codevember2020#readme",
+  "devDependencies": {
+    "serve": "^11.2.0"
+  }
+}
